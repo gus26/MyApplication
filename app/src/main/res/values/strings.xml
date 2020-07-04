@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApplication1</string>
+    <string name="question_text">Guayaquil es la ciudad del Ecuador con más
+habitantes.</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="incorrect_toast" />
+    <string name="correct_toast" />
+
+</resources>
